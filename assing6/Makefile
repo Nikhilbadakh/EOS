@@ -1,5 +1,5 @@
 
-TARGET=assing_Q2
+TARGET=main
 
 CSRCS= $(TARGET).c
 CSRCS+= 
